@@ -1,0 +1,30 @@
+{
+    "money": 3080,
+    "damage_level": 10,
+    "size_level": 11,
+    "damage_level_2": 3,
+    "size_level_2": 3,
+    "money_mult_level": 6,
+    "fire_rate_level": 4,
+    "bullet_speed_level": 2,
+    "player_speed_level": 2,
+    "max_wave_unlocked": 7,
+    "has_extra_bullet": true,
+    "has_super_mode": true,
+    "has_money_mode": false,
+    "materials": {
+        "iron": 5,
+        "crystal": 3,
+        "core": 4
+    },
+    "actives": {
+        "wave_clear": 1,
+        "invincibility": 0,
+        "boss_half_hp": 0
+    },
+    "gun_skin_index": 0,
+    "enemy_skin_index": 0,
+    "bg_skin_index": 1,
+    "extra_lives": 1,
+    "armor_level": 7
+}
